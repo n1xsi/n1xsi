@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://sun9-42.userapi.com/impg/a8DyQBuZlLutCI0nQb454tQUW9A_oXBYdkFPUg/Fpcp7pqS_RM.jpg?size=500x378&quality=95&sign=bf10c1987ac05eeaaabde3d332803357&type=album"/>
   
-  [![](https://komarev.com/ghpvc/?username=n1xsi&style=for-the-badge&color=blueviolet)](#) [![codewars](https://www.codewars.com/users/nixsi/badges/micro)](https://www.codewars.com/users/nixsi) [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=nixsi)](https://codeforces.com/profile/nixsi)
+  [![](https://komarev.com/ghpvc/?username=n1xsi&style=for-the-badge&color=blueviolet)](#)
 </div>
 
 <div id="body" align="center">
@@ -14,4 +14,7 @@
 
 #### 🧩 other 🧩
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](#) [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](#) [![Bash Script](https://img.shields.io/badge/bash_script-000?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+
+[![codewars](https://www.codewars.com/users/nixsi/badges/micro)](https://www.codewars.com/users/nixsi) 
+[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=nixsi)](https://codeforces.com/profile/nixsi)
 </div>
