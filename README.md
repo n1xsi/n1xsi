@@ -12,7 +12,7 @@
 <hr>
 
 ### 👩🏻‍💻 prog languages 📝
-[![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=00599c)](#) [![C#](https://custom-icon-badges.demolab.com/badge/c-000?style=for-the-badge&logo=csharppp&logoColor=white)](#) [![Python](https://custom-icon-badges.demolab.com/badge/Python-000?style=for-the-badge&logo=pythonn)](#) [![Lua](https://img.shields.io/badge/lua-000?style=for-the-badge&logo=lua&logoColor=2c2d72)](#)
+[![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=00599c)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-000?style=for-the-badge&logo=csharppp&logoColor=white)](#) [![Python](https://custom-icon-badges.demolab.com/badge/Python-000?style=for-the-badge&logo=pythonn)](#) [![Lua](https://img.shields.io/badge/lua-000?style=for-the-badge&logo=lua&logoColor=2c2d72)](#)
 
 <hr>
 
