@@ -23,18 +23,6 @@ junior:
 
 <hr>
 
-### 💻 tools 🛠️
-[![CLion](https://img.shields.io/badge/CLion-000?style=for-the-badge&logo=clion&logoColor=16b9e2)](#)
-[![PyCharm](https://img.shields.io/badge/pycharm-000?style=for-the-badge&logo=pycharm&logoColor=18e999)](#)
-[![Neovim](https://img.shields.io/badge/NeoVim-000?&style=for-the-badge&logo=neovim)](#)
-
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=vstudioc)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-000?style=for-the-badge&logo=vstudio)](#)
-
-[![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)](#)
-
-<hr>
-
 ### ➕ other skills ➕
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](#)
 [![Bash Script](https://img.shields.io/badge/bash_script-000?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
@@ -42,6 +30,16 @@ junior:
 
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-000?style=for-the-badge&logo=sqql)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+
+<hr>
+
+### 💻 tools 🛠️
+[![CLion](https://img.shields.io/badge/CLion-000?style=for-the-badge&logo=clion&logoColor=16b9e2)](#)
+[![PyCharm](https://img.shields.io/badge/pycharm-000?style=for-the-badge&logo=pycharm&logoColor=18e999)](#)
+[![Neovim](https://img.shields.io/badge/NeoVim-000?&style=for-the-badge&logo=neovim)](#)
+
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=vstudioc)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-000?style=for-the-badge&logo=vstudio)](#)
 
 <hr>
 
