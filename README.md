@@ -25,7 +25,7 @@ junior:
 
 ### ➕ other skills ➕
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](#)
-[![Bash Script](https://img.shields.io/badge/bash_script-000?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](#)
 
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-000?style=for-the-badge&logo=sqql)](#)
