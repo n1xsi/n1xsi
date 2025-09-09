@@ -18,6 +18,7 @@ medium:
 [![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-000?style=for-the-badge&logo=csharppp&logoColor=white)](#)
 
 junior: 
+[![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599c)](#)
 [![Assembler](https://custom-icon-badges.demolab.com/badge/GAS%20ASM%20x64-000?style=for-the-badge&logo=assmbler)](#)
 [![Lua](https://img.shields.io/badge/lua-000?style=for-the-badge&logo=lua&logoColor=2c2d72)](#)
 
