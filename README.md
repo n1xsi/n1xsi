@@ -9,9 +9,13 @@
 [![codewars](https://www.codewars.com/users/nixsi/badges/micro)](https://www.codewars.com/users/nixsi) 
 [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=nixsi)](https://codeforces.com/profile/nixsi)
 
+🇷🇺-student 👨‍🎓
+
+<b>specialty</b>: <i>Computer Science and Computer Engineering</i> ⚙️💻
+
 <hr>
 
-### 👩🏻‍💻 prog languages 📝
+### 👩🏻‍💻 prog skills 👩🏻‍💻
 medium: 
 [![Python](https://custom-icon-badges.demolab.com/badge/Python-000?style=for-the-badge&logo=pythonn)](#)
 [![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=00599c)](#)
@@ -34,7 +38,7 @@ junior:
 
 <hr>
 
-### 💻 tools 🛠️
+### 🛠️ tools 🛠️
 [![CLion](https://img.shields.io/badge/CLion-000?style=for-the-badge&logo=clion&logoColor=16b9e2)](#)
 [![PyCharm](https://img.shields.io/badge/pycharm-000?style=for-the-badge&logo=pycharm&logoColor=18e999)](#)
 [![Neovim](https://img.shields.io/badge/NeoVim-000?&style=for-the-badge&logo=neovim)](#)
@@ -47,7 +51,6 @@ junior:
 ### ✍🏻 worked with 👀
 [![LaTex](https://img.shields.io/badge/LaTex-black?style=for-the-badge&logo=latex&logoColor=008080)](#)
 [![Typst](https://img.shields.io/badge/typst-black?style=for-the-badge&logo=typst)](#)
-
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=htmx)](#)
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=fff)](#)
 
