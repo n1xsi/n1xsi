@@ -11,7 +11,7 @@
 
 🇷🇺-student 👨‍🎓
 
-<b>specialty</b>: <i>Computer Science and Computer Engineering</i> ⚙️💻
+<b>specialty</b>: Computer Science and Computer Engineering ⚙️💻
 
 <hr>
 
