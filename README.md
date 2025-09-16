@@ -39,12 +39,12 @@ junior:
 <hr>
 
 ### 🛠️ tools 🛠️
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-000?style=for-the-badge&logo=vstudioc)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-000?style=for-the-badge&logo=vstudio)](#)
+
 [![CLion](https://img.shields.io/badge/CLion-000?style=for-the-badge&logo=clion&logoColor=16b9e2)](#)
 [![PyCharm](https://img.shields.io/badge/pycharm-000?style=for-the-badge&logo=pycharm&logoColor=18e999)](#)
 [![Neovim](https://img.shields.io/badge/NeoVim-000?&style=for-the-badge&logo=neovim)](#)
-
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-000?style=for-the-badge&logo=vstudioc)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-000?style=for-the-badge&logo=vstudio)](#)
 
 <hr>
 
@@ -57,6 +57,8 @@ junior:
 [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](#) 
 [![IDA](https://custom-icon-badges.demolab.com/badge/IDA%20x64-000?style=for-the-badge&logo=ida64)](#)
 [![Cheat Engine](https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-000?style=for-the-badge&logo=chtengine)](#)
+
+[![MatLab](https://custom-icon-badges.demolab.com/badge/MatLab-000?style=for-the-badge&logo=mattlab)](#)
 
 </div>
 
