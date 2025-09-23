@@ -9,7 +9,9 @@
 [![codewars](https://www.codewars.com/users/nixsi/badges/micro)](https://www.codewars.com/users/nixsi) 
 [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=nixsi)](https://codeforces.com/profile/nixsi)
 
-🇷🇺-student 👨‍🎓
+ru student 👨‍🎓
+
+<b>english</b>: B2 🇬🇧
 
 <b>specialty</b>: Computer Science and Computer Engineering ⚙️💻
 
