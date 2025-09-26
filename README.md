@@ -9,9 +9,9 @@
 [![codewars](https://www.codewars.com/users/nixsi/badges/micro)](https://www.codewars.com/users/nixsi) 
 [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=nixsi)](https://codeforces.com/profile/nixsi)
 
-ru student 👨‍🎓
+ru suai student 👨‍🎓
 
-<b>english</b>: B2 🇬🇧
+<b>english</b>: B2 <img src="https://emojigraph.org/media/apple/flag-united-kingdom_1f1ec-1f1e7.png" width="32" height="32" align="absmiddle">
 
 <b>specialty</b>: Computer Science and Computer Engineering ⚙️💻
 
