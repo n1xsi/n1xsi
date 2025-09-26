@@ -21,10 +21,10 @@ ru student 👨‍🎓
 medium: 
 [![Python](https://custom-icon-badges.demolab.com/badge/Python-000?style=for-the-badge&logo=pythonn)](#)
 [![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=00599c)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-000?style=for-the-badge&logo=csharppp&logoColor=white)](#)
 
 junior: 
 [![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599c)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-000?style=for-the-badge&logo=csharppp&logoColor=white)](#)
 [![Assembler](https://custom-icon-badges.demolab.com/badge/GAS%20ASM%20x64-000?style=for-the-badge&logo=assmbler)](#)
 [![Lua](https://img.shields.io/badge/lua-000?style=for-the-badge&logo=lua&logoColor=2c2d72)](#)
 
@@ -35,6 +35,7 @@ junior:
 [![Bash](https://img.shields.io/badge/bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](#)
 
+[![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)](#)
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-000?style=for-the-badge&logo=sqql)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 
@@ -44,9 +45,9 @@ junior:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-000?style=for-the-badge&logo=vstudioc)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-000?style=for-the-badge&logo=vstudio)](#)
 
+[![Neovim](https://img.shields.io/badge/NeoVim-000?&style=for-the-badge&logo=neovim)](#)
 [![CLion](https://img.shields.io/badge/CLion-000?style=for-the-badge&logo=clion&logoColor=16b9e2)](#)
 [![PyCharm](https://img.shields.io/badge/pycharm-000?style=for-the-badge&logo=pycharm&logoColor=18e999)](#)
-[![Neovim](https://img.shields.io/badge/NeoVim-000?&style=for-the-badge&logo=neovim)](#)
 
 <hr>
 
