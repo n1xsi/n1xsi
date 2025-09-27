@@ -9,7 +9,7 @@
 [![codewars](https://www.codewars.com/users/nixsi/badges/micro)](https://www.codewars.com/users/nixsi) 
 [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=nixsi)](https://codeforces.com/profile/nixsi)
 
-ru suai student 👨‍🎓
+<i>ru suai</i> <b>student</b> 👨‍🎓
 
 <b>english</b>: B2 <img src="https://emojigraph.org/media/apple/flag-united-kingdom_1f1ec-1f1e7.png" width="24" height="24" align="top">
 
@@ -51,7 +51,7 @@ junior:
 
 <hr>
 
-### ✍🏻 worked with 👀
+### ✍🏻 also worked with 👀
 [![LaTex](https://img.shields.io/badge/LaTex-black?style=for-the-badge&logo=latex&logoColor=008080)](#)
 [![Typst](https://img.shields.io/badge/typst-black?style=for-the-badge&logo=typst)](#)
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=htmx)](#)
