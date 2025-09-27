@@ -11,7 +11,7 @@
 
 ru suai student 👨‍🎓
 
-<b>english</b>: B2 <img src="https://emojigraph.org/media/apple/flag-united-kingdom_1f1ec-1f1e7.png" width="32" height="32" align="absmiddle">
+<b>english</b>: B2 <img src="https://emojigraph.org/media/apple/flag-united-kingdom_1f1ec-1f1e7.png" width="24" height="24" align="top">
 
 <b>specialty</b>: Computer Science and Computer Engineering ⚙️💻
 
@@ -33,11 +33,11 @@ junior:
 ### ➕ other skills ➕
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](#)
 [![Bash](https://img.shields.io/badge/bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](#)
-
 [![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)](#)
+
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-000?style=for-the-badge&logo=sqql)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](#)
 
 <hr>
 
