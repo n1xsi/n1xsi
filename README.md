@@ -18,11 +18,11 @@
 <hr>
 
 ### 👩🏻‍💻 prog skills 👩🏻‍💻
-medium: 
+<b>medium: </b>
 [![Python](https://custom-icon-badges.demolab.com/badge/Python-000?style=for-the-badge&logo=pythonn)](#)
 [![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=00599c)](#)
 
-junior: 
+<b>junior: </b>
 [![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599c)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-000?style=for-the-badge&logo=csharppp&logoColor=white)](#)
 [![Assembler](https://custom-icon-badges.demolab.com/badge/GAS%20ASM%20x64-000?style=for-the-badge&logo=assmbler)](#)
@@ -52,15 +52,18 @@ junior:
 <hr>
 
 ### ✍🏻 also worked with 👀
+hyper-text:
 [![LaTex](https://img.shields.io/badge/LaTex-black?style=for-the-badge&logo=latex&logoColor=008080)](#)
 [![Typst](https://img.shields.io/badge/typst-black?style=for-the-badge&logo=typst)](#)
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=htmx)](#)
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=fff)](#)
 
+cool:
 [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](#) 
 [![IDA](https://custom-icon-badges.demolab.com/badge/IDA%20x64-000?style=for-the-badge&logo=ida64)](#)
 [![Cheat Engine](https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-000?style=for-the-badge&logo=chtengine)](#)
 
+stud:
 [![MatLab](https://custom-icon-badges.demolab.com/badge/MatLab-000?style=for-the-badge&logo=mattlab)](#)
 
 </div>
