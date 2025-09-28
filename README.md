@@ -65,6 +65,7 @@ cool:
 
 stud:
 [![MatLab](https://custom-icon-badges.demolab.com/badge/MatLab-000?style=for-the-badge&logo=mattlab)](#)
+[![Vivado](https://custom-icon-badges.demolab.com/badge/Vivado-000?style=for-the-badge&logo=vivado)](#)
 
 </div>
 
