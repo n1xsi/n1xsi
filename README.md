@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://sun9-42.userapi.com/impg/a8DyQBuZlLutCI0nQb454tQUW9A_oXBYdkFPUg/Fpcp7pqS_RM.jpg?size=500x378&quality=95&sign=bf10c1987ac05eeaaabde3d332803357&type=album"/>
+  <img src="https://i.imgur.com/Wb5BSOW.jpeg"/>
   
   [![View Counter](https://komarev.com/ghpvc/?username=n1xsi&style=for-the-badge&color=blueviolet)](#)
 </div>
