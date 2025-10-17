@@ -1,7 +1,9 @@
 <div id="header" align="center">
-  <img src="https://i.imgur.com/Wb5BSOW.jpeg"/>
+  
+  ![snowflakes preview](https://i.imgur.com/Nt0pDfX.gif)
   
   [![View Counter](https://komarev.com/ghpvc/?username=n1xsi&style=for-the-badge&color=blueviolet)](#)
+  
 </div>
 
 <div id="body" align="center">
