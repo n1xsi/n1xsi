@@ -2,7 +2,7 @@
   
   ![snowflakes preview](https://i.imgur.com/Nt0pDfX.gif)
   
-  [![View Counter](https://komarev.com/ghpvc/?username=n1xsi&style=for-the-badge&color=blueviolet)](#)
+  [![View Counter](https://komarev.com/ghpvc/?username=n1xsi&color=blueviolet&style=for-the-badge)](#)
   
 </div>
 
@@ -21,53 +21,53 @@
   
   ### 👩🏻‍💻 prog skills 👩🏻‍💻
   <b>medium: </b>
-  [![Python](https://custom-icon-badges.demolab.com/badge/Python-000?style=for-the-badge&logo=pythonn)](#)
-  [![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=00599c)](#)
+  [![Python](https://custom-icon-badges.demolab.com/badge/Python-202020?style=for-the-badge&logo=pythonn)](#)
+  [![C](https://img.shields.io/badge/c-202020?style=for-the-badge&logo=c&logoColor=00599c)](#)
   
   <b>junior: </b>
-  [![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599c)](#)
-  [![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-000?style=for-the-badge&logo=csharppp&logoColor=white)](#)
-  [![Assembler](https://custom-icon-badges.demolab.com/badge/GAS%20ASM%20x64-000?style=for-the-badge&logo=assmbler)](#)
-  [![Lua](https://img.shields.io/badge/lua-000?style=for-the-badge&logo=lua&logoColor=2c2d72)](#)
+  [![C++](https://img.shields.io/badge/c++-202020?style=for-the-badge&logo=c%2B%2B&logoColor=00599c)](#)
+  [![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-202020?style=for-the-badge&logo=csharppp&logoColor=white)](#)
+  [![Assembler](https://custom-icon-badges.demolab.com/badge/GAS%20ASM%20x64-202020?style=for-the-badge&logo=assmbler)](#)
+  [![Lua](https://img.shields.io/badge/lua-202020?style=for-the-badge&logo=lua&logoColor=2c2d72)](#)
   
   <hr>
   
   ### ➕ other skills ➕
-  [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](#)
-  [![Bash](https://img.shields.io/badge/bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
-  [![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)](#)
+  [![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git)](#)
+  [![Bash](https://img.shields.io/badge/bash-202020?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+  [![Docker](https://img.shields.io/badge/docker-202020?style=for-the-badge&logo=docker)](#)
   
-  [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-000?style=for-the-badge&logo=sqql)](#)
-  [![SQLite](https://img.shields.io/badge/SQLite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-  [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](#)
+  [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-202020?style=for-the-badge&logo=sqql)](#)
+  [![SQLite](https://img.shields.io/badge/SQLite-202020.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+  [![Markdown](https://img.shields.io/badge/markdown-202020.svg?style=for-the-badge&logo=markdown&logoColor=white)](#)
   
   <hr>
   
   ### 🛠️ tools 🛠️
-  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-000?style=for-the-badge&logo=vstudioc)](#)
-  [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-000?style=for-the-badge&logo=vstudio)](#)
+  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-202020?style=for-the-badge&logo=vstudioc)](#)
+  [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-202020?style=for-the-badge&logo=vstudio)](#)
   
-  [![Neovim](https://img.shields.io/badge/NeoVim-000?&style=for-the-badge&logo=neovim)](#)
-  [![CLion](https://img.shields.io/badge/CLion-000?style=for-the-badge&logo=clion&logoColor=16b9e2)](#)
-  [![PyCharm](https://img.shields.io/badge/pycharm-000?style=for-the-badge&logo=pycharm&logoColor=18e999)](#)
+  [![Neovim](https://img.shields.io/badge/NeoVim-202020?&style=for-the-badge&logo=neovim)](#)
+  [![CLion](https://img.shields.io/badge/CLion-202020?style=for-the-badge&logo=clion&logoColor=16b9e2)](#)
+  [![PyCharm](https://img.shields.io/badge/pycharm-202020?style=for-the-badge&logo=pycharm&logoColor=18e999)](#)
   
   <hr>
   
   ### ✍🏻 also worked with 👀
   <b>hyper-text: </b>
-  [![LaTex](https://img.shields.io/badge/LaTex-black?style=for-the-badge&logo=latex&logoColor=008080)](#)
-  [![Typst](https://img.shields.io/badge/typst-black?style=for-the-badge&logo=typst)](#)
-  [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=htmx)](#)
-  [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=fff)](#)
+  [![LaTex](https://img.shields.io/badge/LaTex-202020?style=for-the-badge&logo=latex&logoColor=008080)](#)
+  [![Typst](https://img.shields.io/badge/typst-202020?style=for-the-badge&logo=typst)](#)
+  [![HTML](https://img.shields.io/badge/html-202020?style=for-the-badge&logo=htmx)](#)
+  [![CSS](https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css&logoColor=fff)](#)
   
   <b>cool: </b>
-  [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](#) 
-  [![IDA](https://custom-icon-badges.demolab.com/badge/IDA%20x64-000?style=for-the-badge&logo=ida64)](#)
-  [![Cheat Engine](https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-000?style=for-the-badge&logo=chtengine)](#)
+  [![Unity](https://img.shields.io/badge/unity-202020?style=for-the-badge&logo=unity)](#) 
+  [![IDA](https://custom-icon-badges.demolab.com/badge/IDA%20x64-202020?style=for-the-badge&logo=ida64)](#)
+  [![Cheat Engine](https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-202020?style=for-the-badge&logo=chtengine)](#)
   
   <b>stud: </b>
-  [![MatLab](https://custom-icon-badges.demolab.com/badge/MatLab-000?style=for-the-badge&logo=mattlab)](#)
-  [![Vivado](https://custom-icon-badges.demolab.com/badge/Vivado-000?style=for-the-badge&logo=vivado)](#)
+  [![MatLab](https://custom-icon-badges.demolab.com/badge/MatLab-202020?style=for-the-badge&logo=mattlab)](#)
+  [![Vivado](https://custom-icon-badges.demolab.com/badge/Vivado-202020?style=for-the-badge&logo=vivado)](#)
 
 </div>
 
