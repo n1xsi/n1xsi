@@ -10,10 +10,10 @@
   
   [![codewars](https://www.codewars.com/users/nixsi/badges/micro)](https://www.codewars.com/users/nixsi) 
   [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=nixsi)](https://codeforces.com/profile/nixsi)
+
+  <b>english</b>: B2 <img src="https://emojigraph.org/media/apple/flag-united-kingdom_1f1ec-1f1e7.png" width="24" height="24" align="top">
   
   SUAI <b>student</b> <img src="https://src.guap.ru/logos/suai/suai-sign_w.svg" width="24" height="24" align="top">👨‍🎓
-  
-  <b>english</b>: B2 <img src="https://emojigraph.org/media/apple/flag-united-kingdom_1f1ec-1f1e7.png" width="24" height="24" align="top">
   
   <b>specialty</b>: Computer Science and Computer Engineering ⚙️💻
   
@@ -60,7 +60,7 @@
   [![HTML](https://img.shields.io/badge/html-202020?style=for-the-badge&logo=htmx)](#)
   [![CSS](https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css&logoColor=fff)](#)
   
-  <b>cool: </b>
+  <b>smth cool: </b>
   [![Unity](https://img.shields.io/badge/unity-202020?style=for-the-badge&logo=unity)](#) 
   [![IDA](https://custom-icon-badges.demolab.com/badge/IDA%20x64-202020?style=for-the-badge&logo=ida64)](#)
   [![Cheat Engine](https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-202020?style=for-the-badge&logo=chtengine)](#)
