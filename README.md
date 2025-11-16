@@ -20,15 +20,16 @@
   <hr>
   
   ### 👩🏻‍💻 prog skills 👩🏻‍💻
-  <b>medium: </b>
+  <b>intermediate: </b>
   [![Python](https://custom-icon-badges.demolab.com/badge/Python-202020?style=for-the-badge&logo=pythonn)](#)
   [![C](https://img.shields.io/badge/c-202020?style=for-the-badge&logo=c&logoColor=00599c)](#)
   
   <b>junior: </b>
   [![C++](https://img.shields.io/badge/c++-202020?style=for-the-badge&logo=c%2B%2B&logoColor=00599c)](#)
   [![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-202020?style=for-the-badge&logo=csharppp&logoColor=white)](#)
-  [![Assembler](https://custom-icon-badges.demolab.com/badge/GAS%20ASM%20x64-202020?style=for-the-badge&logo=assmbler)](#)
+  [![JavaScript](https://img.shields.io/badge/JS-202020?style=for-the-badge&logo=javascript&logoColor=f7df1e)](#)
   [![Lua](https://img.shields.io/badge/lua-202020?style=for-the-badge&logo=lua&logoColor=2c2d72)](#)
+  [![Assembler](https://custom-icon-badges.demolab.com/badge/GAS%20ASM%20x64-202020?style=for-the-badge&logo=assmbler)](#)
   
   <hr>
   
@@ -70,6 +71,9 @@
   [![Vivado](https://custom-icon-badges.demolab.com/badge/Vivado-202020?style=for-the-badge&logo=vivado)](#)
 
 </div>
+
+
+<!-- if u want this too, check this out: -->
 
 <!-- https://custom-icon-badges.demolab.com - load your own badge -->
 <!-- https://si-badge-maker.heyfe.org/en - build a badge -->
