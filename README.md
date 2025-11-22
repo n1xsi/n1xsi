@@ -35,12 +35,13 @@
   
   ### ➕ other skills ➕
   [![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git)](#)
-  [![Bash](https://img.shields.io/badge/bash-202020?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
   [![Docker](https://img.shields.io/badge/docker-202020?style=for-the-badge&logo=docker)](#)
-  
   [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-202020?style=for-the-badge&logo=sqql)](#)
-  [![SQLite](https://img.shields.io/badge/SQLite-202020.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-  [![Markdown](https://img.shields.io/badge/markdown-202020.svg?style=for-the-badge&logo=markdown&logoColor=white)](#)
+  [![Bash](https://img.shields.io/badge/bash-202020?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+  
+  [![Markdown](https://img.shields.io/badge/markdown-202020?style=for-the-badge&logo=markdown&logoColor=white)](#)
+  [![SQLite](https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+  [![aiogram](https://img.shields.io/badge/aiogram-202020?style=for-the-badge&logo=telegram&logoColor=white)](#)
   
   <hr>
   
