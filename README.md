@@ -11,6 +11,8 @@
   [![codewars](https://www.codewars.com/users/nixsi/badges/micro)](https://www.codewars.com/users/nixsi) 
   [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=nixsi)](https://codeforces.com/profile/nixsi)
 
+  <br>
+
   <b>english</b>: B2 <img src="https://emojigraph.org/media/apple/flag-united-kingdom_1f1ec-1f1e7.png" width="24" height="24" align="top">
   
   SUAI <b>student</b> <img src="https://src.guap.ru/logos/suai/suai-sign_w.svg" width="24" height="24" align="top">👨‍🎓
