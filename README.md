@@ -72,7 +72,7 @@
   
   <b>stud: </b>
   [![MatLab](https://custom-icon-badges.demolab.com/badge/MatLab-202020?style=for-the-badge&logo=mattlab)](#)
-  [![Vivado](https://custom-icon-badges.demolab.com/badge/Vivado-202020?style=for-the-badge&logo=vivado)](#)
+  [![Vivado](https://custom-icon-badges.demolab.com/badge/Vivado%20(Verilog)-202020?style=for-the-badge&logo=vivado)](#)
 
 </div>
 
