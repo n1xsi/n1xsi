@@ -60,7 +60,7 @@
   <hr>
   
   ### ✍🏻 also worked with 👀
-  <b>hyper-text: </b>
+  <b>hypertext: </b>
   [![LaTex](https://img.shields.io/badge/LaTex-202020?style=for-the-badge&logo=latex&logoColor=008080)](#)
   [![Typst](https://img.shields.io/badge/typst-202020?style=for-the-badge&logo=typst)](#)
   [![HTML](https://img.shields.io/badge/html-202020?style=for-the-badge&logo=htmx)](#)
@@ -71,7 +71,7 @@
   [![IDA](https://custom-icon-badges.demolab.com/badge/IDA%20x64-202020?style=for-the-badge&logo=ida64)](#)
   [![Cheat Engine](https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-202020?style=for-the-badge&logo=chtengine)](#)
   
-  <b>stud: </b>
+  <b>studenthood: </b>
   [![MatLab](https://custom-icon-badges.demolab.com/badge/MatLab-202020?style=for-the-badge&logo=mattlab)](#)
   [![Vivado](https://custom-icon-badges.demolab.com/badge/Vivado%20(Verilog)-202020?style=for-the-badge&logo=vivado)](#)
 
