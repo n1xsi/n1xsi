@@ -45,7 +45,7 @@
   [![Markdown](https://img.shields.io/badge/markdown-202020?style=for-the-badge&logo=markdown&logoColor=white)](#)
   [![SQLite](https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite&logoColor=white)](#)
   [![aiogram](https://img.shields.io/badge/aiogram-202020?style=for-the-badge&logo=telegram&logoColor=white)](#)
-  [![UnitTest](https://img.shields.io/badge/unittest-202020?style=for-the-badge&logo=unittest&logoColor=white)](#)
+  [![UnitTest](https://custom-icon-badges.demolab.com/badge/unittest-202020?style=for-the-badge&logo=unittest&logoColor=white)](#)
   
   <hr>
   
