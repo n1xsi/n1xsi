@@ -21,7 +21,7 @@
   <b>stages: </b>
   [![codewars](https://www.codewars.com/users/nixsi/badges/micro)](https://www.codewars.com/users/nixsi)
   [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=nixsi)](https://codeforces.com/profile/nixsi)
-  [![LeetCode](https://img.shields.io/badge/LeetCode%20PROF-gray?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/nixsi/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode%20Profile%20🔗-gray?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/nixsi/)
 
   <hr>
 
