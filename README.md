@@ -53,11 +53,13 @@
   <hr>
 
   ### 🛠️ tools 🛠️
+  <b>main: </b>
   [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-202020?style=for-the-badge&logo=vstudioc)](#)
-  [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-202020?style=for-the-badge&logo=vstudio)](#)
   [![WSL Debian](https://img.shields.io/badge/WSL%20Debian-202020?style=for-the-badge&logo=debian&logoColor=A81D33)](#)
-
   [![Neovim](https://img.shields.io/badge/NeoVim-202020?&style=for-the-badge&logo=neovim)](#)
+
+  <b>situative: </b>
+  [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-202020?style=for-the-badge&logo=vstudio)](#)
   [![CLion](https://img.shields.io/badge/CLion-202020?style=for-the-badge&logo=clion&logoColor=16b9e2)](#)
   [![PyCharm](https://img.shields.io/badge/pycharm-202020?style=for-the-badge&logo=pycharm&logoColor=18e999)](#)
 
