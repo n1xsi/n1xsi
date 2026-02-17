@@ -66,32 +66,32 @@
   <hr>
   
   ### ✍🏻 also worked with 👀
+  <b>hypertext: </b>
+  [![LaTex](https://img.shields.io/badge/LaTex-202020?style=for-the-badge&logo=latex&logoColor=008080)](#)
+  [![Typst](https://img.shields.io/badge/typst-202020?style=for-the-badge&logo=typst)](#)
+  
   <b>small web: </b>
   [![HTML](https://img.shields.io/badge/html-202020?style=for-the-badge&logo=htmx)](#)
   [![CSS](https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css&logoColor=fff)](#)
   [![JavaScript](https://img.shields.io/badge/JS-202020?style=for-the-badge&logo=javascript&logoColor=f7df1e)](#)
-
-  <b>hypertext: </b>
-  [![LaTex](https://img.shields.io/badge/LaTex-202020?style=for-the-badge&logo=latex&logoColor=008080)](#)
-  [![Typst](https://img.shields.io/badge/typst-202020?style=for-the-badge&logo=typst)](#)
-
+  
   <b>smth cool: </b>
   [![Unity](https://img.shields.io/badge/unity-202020?style=for-the-badge&logo=unity)](#)
   [![IDA](https://custom-icon-badges.demolab.com/badge/IDA%20x64-202020?style=for-the-badge&logo=ida64)](#)
   [![Cheat Engine](https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-202020?style=for-the-badge&logo=chtengine)](#)
-
-  <b>CV/AI: </b>
-  [![Google Colab](https://img.shields.io/badge/Google%20Colab-202020?style=for-the-badge&logo=googlecolab&logoColor=23F9A825)](#)
-  [![Jupyter Notebook](https://img.shields.io/badge/jupyter-202020?style=for-the-badge&logo=jupyter&logoColor=f58034)](#)
-  [![OpenCV](https://img.shields.io/badge/opencv-202020?style=for-the-badge&logo=opencv&logoColor=94de6e)](#)
-  [![NumPy](https://img.shields.io/badge/numpy-202020?style=for-the-badge&logo=numpy&logoColor=013243)](#)
-  [![scikit-learn](https://img.shields.io/badge/scikit--learn-202020?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)](#)
 
   <b>studenthood: </b>
   [![PascalABC.NET](https://custom-icon-badges.demolab.com/badge/PascalABC.NET-202020?style=for-the-badge&logo=pascalabcnet)](#)
   [![GDI+](https://custom-icon-badges.demolab.com/badge/GDI+-202020?style=for-the-badge&logo=gdiplus)](#)
   [![MatLab](https://custom-icon-badges.demolab.com/badge/MatLab-202020?style=for-the-badge&logo=mattlab)](#)
   [![Vivado](https://custom-icon-badges.demolab.com/badge/Vivado%20(Verilog)-202020?style=for-the-badge&logo=vivado)](#)
+  
+  <b>CV/AI: </b>
+  [![Google Colab](https://img.shields.io/badge/Google%20Colab-202020?style=for-the-badge&logo=googlecolab&logoColor=23F9A825)](#)
+  [![Jupyter Notebook](https://img.shields.io/badge/jupyter-202020?style=for-the-badge&logo=jupyter&logoColor=f58034)](#)
+  [![OpenCV](https://img.shields.io/badge/opencv-202020?style=for-the-badge&logo=opencv&logoColor=94de6e)](#)
+  [![NumPy](https://img.shields.io/badge/numpy-202020?style=for-the-badge&logo=numpy&logoColor=white)](#)
+  [![scikit-learn](https://img.shields.io/badge/scikit--learn-202020?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)](#)
 
 </div>
 
