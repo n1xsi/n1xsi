@@ -80,6 +80,13 @@
   [![IDA](https://custom-icon-badges.demolab.com/badge/IDA%20x64-202020?style=for-the-badge&logo=ida64)](#)
   [![Cheat Engine](https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-202020?style=for-the-badge&logo=chtengine)](#)
 
+  <b>CV/AI: </b>
+  [![Google Colab](https://img.shields.io/badge/Google%20Colab-202020?style=for-the-badge&logo=googlecolab&logoColor=23F9A825)](#)
+  [![Jupyter Notebook](https://img.shields.io/badge/jupyter-202020?style=for-the-badge&logo=jupyter&logoColor=f58034)](#)
+  [![OpenCV](https://img.shields.io/badge/opencv-202020?style=for-the-badge&logo=opencv&logoColor=94de6e)](#)
+  [![NumPy](https://img.shields.io/badge/numpy-202020?style=for-the-badge&logo=numpy&logoColor=013243)](#)
+  [![scikit-learn](https://img.shields.io/badge/scikit--learn-202020?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)](#)
+
   <b>studenthood: </b>
   [![PascalABC.NET](https://custom-icon-badges.demolab.com/badge/PascalABC.NET-202020?style=for-the-badge&logo=pascalabcnet)](#)
   [![GDI+](https://custom-icon-badges.demolab.com/badge/GDI+-202020?style=for-the-badge&logo=gdiplus)](#)
