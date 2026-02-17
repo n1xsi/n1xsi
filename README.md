@@ -42,13 +42,13 @@
   [![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git)](#)
   [![Docker](https://img.shields.io/badge/docker-202020?style=for-the-badge&logo=docker)](#)
   [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-202020?style=for-the-badge&logo=sqql)](#)
-  [![Bash](https://img.shields.io/badge/bash-202020?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
-  [![Make](https://img.shields.io/badge/Make-202020?style=for-the-badge&logo=gnu&logoColor=white)](#)
-
-  [![Markdown](https://img.shields.io/badge/markdown-202020?style=for-the-badge&logo=markdown&logoColor=white)](#)
   [![SQLite](https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+  [![Bash](https://img.shields.io/badge/bash-202020?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+
   [![aiogram](https://img.shields.io/badge/aiogram-202020?style=for-the-badge&logo=telegram&logoColor=white)](#)
   [![UnitTest](https://custom-icon-badges.demolab.com/badge/unittest-202020?style=for-the-badge&logo=unittest&logoColor=white)](#)
+  [![Make](https://img.shields.io/badge/Make-202020?style=for-the-badge&logo=gnu&logoColor=white)](#)
+  [![Markdown](https://img.shields.io/badge/markdown-202020?style=for-the-badge&logo=markdown&logoColor=white)](#)
 
   <hr>
 
