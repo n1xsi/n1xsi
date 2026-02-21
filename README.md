@@ -91,7 +91,9 @@
   [![Jupyter Notebook](https://img.shields.io/badge/jupyter-202020?style=for-the-badge&logo=jupyter&logoColor=f58034)](#)
   [![OpenCV](https://custom-icon-badges.demolab.com/badge/opencv-202020?style=for-the-badge&logo=opencv_color&logoColor=94de6e)](#)
   [![NumPy](https://img.shields.io/badge/numpy-202020?style=for-the-badge&logo=numpy&logoColor=white)](#)
+  
   [![scikit-learn](https://img.shields.io/badge/scikit--learn-202020?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)](#)
+  [![Google Gemini](https://img.shields.io/badge/google%20AI%20studio-202020?style=for-the-badge&logo=google%20gemini&logoColor=7090df)](#)
 
 </div>
 
