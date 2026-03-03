@@ -74,6 +74,7 @@
   [![HTML](https://img.shields.io/badge/html-202020?style=for-the-badge&logo=htmx)](#)
   [![CSS](https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css&logoColor=fff)](#)
   [![JavaScript](https://img.shields.io/badge/JS-202020?style=for-the-badge&logo=javascript&logoColor=f7df1e)](#)
+  [![p5.js](https://img.shields.io/badge/p5.js-202020?style=for-the-badge&logo=p5.js&logoColor=ED225D)](#)
   
   <b>smth cool: </b>
   [![Unity](https://img.shields.io/badge/unity-202020?style=for-the-badge&logo=unity)](#)
@@ -82,7 +83,6 @@
 
   <b>studenthood: </b>
   [![PascalABC.NET](https://custom-icon-badges.demolab.com/badge/PascalABC.NET-202020?style=for-the-badge&logo=pascalabcnet)](#)
-  [![GDI+](https://custom-icon-badges.demolab.com/badge/GDI+-202020?style=for-the-badge&logo=gdiplus)](#)
   [![MatLab](https://custom-icon-badges.demolab.com/badge/MatLab-202020?style=for-the-badge&logo=mattlab)](#)
   [![Vivado](https://custom-icon-badges.demolab.com/badge/Vivado%20(Verilog)-202020?style=for-the-badge&logo=vivado)](#)
   
