@@ -45,6 +45,7 @@
   [![SQLite](https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite&logoColor=white)](#)
   [![Bash](https://img.shields.io/badge/bash-202020?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 
+  [![Qt](https://img.shields.io/badge/PyQt-202020.svg?style=for-the-badge&logo=Qt&logoColor=2ed03c)](#)
   [![aiogram](https://img.shields.io/badge/aiogram-202020?style=for-the-badge&logo=telegram&logoColor=white)](#)
   [![UnitTest](https://custom-icon-badges.demolab.com/badge/unittest-202020?style=for-the-badge&logo=unittest&logoColor=white)](#)
   [![Make](https://img.shields.io/badge/Make-202020?style=for-the-badge&logo=gnu&logoColor=white)](#)
@@ -61,7 +62,6 @@
   <b>situative: </b>
   [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-202020?style=for-the-badge&logo=vstudio)](#)
   [![CLion](https://img.shields.io/badge/CLion-202020?style=for-the-badge&logo=clion&logoColor=16b9e2)](#)
-  [![PyCharm](https://img.shields.io/badge/pycharm-202020?style=for-the-badge&logo=pycharm&logoColor=18e999)](#)
 
   <hr>
   
