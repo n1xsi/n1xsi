@@ -33,7 +33,6 @@
   <b>junior: </b>
   [![C++](https://img.shields.io/badge/c++-202020?style=for-the-badge&logo=c%2B%2B&logoColor=00599c)](#)
   [![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-202020?style=for-the-badge&logo=csharppp&logoColor=white)](#)
-  [![Lua](https://img.shields.io/badge/lua-202020?style=for-the-badge&logo=lua&logoColor=2c2d72)](#)
   [![Assembler](https://custom-icon-badges.demolab.com/badge/GAS%20ASM%20x64-202020?style=for-the-badge&logo=assmbler)](#)
 
   <hr>
@@ -79,6 +78,7 @@
   <b>smth cool: </b>
   [![Unity](https://img.shields.io/badge/unity-202020?style=for-the-badge&logo=unity)](#)
   [![IDA](https://custom-icon-badges.demolab.com/badge/IDA%20x64-202020?style=for-the-badge&logo=ida64)](#)
+  [![Lua](https://img.shields.io/badge/lua-202020?style=for-the-badge&logo=lua&logoColor=2c2d72)](#)
   [![Cheat Engine](https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-202020?style=for-the-badge&logo=chtengine)](#)
   [![AHK](https://custom-icon-badges.demolab.com/badge/Autohotkey-202020?style=for-the-badge&logo=ahk)](#)
 
