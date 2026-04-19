@@ -11,10 +11,12 @@
 <div id="body" align="center">
 
   ### 🪶 smth abt me 🪶
-  
-  <b>english</b>: B2 <img src="https://emojigraph.org/media/apple/flag-united-kingdom_1f1ec-1f1e7.png" width="24" height="24" align="top">
 
-  SUAI <b>student</b> <img src="https://src.guap.ru/logos/suai/suai-sign_w.svg" width="24" height="24" align="top">👨‍🎓
+  <b>english</b>: B2
+  <img src="https://emojigraph.org/media/apple/flag-united-kingdom_1f1ec-1f1e7.png" width="27" align="top">
+
+  SUAI <b>student</b>
+  <img src="https://src.guap.ru/logos/suai/suai-sign_w.svg" width="27" align="top">
 
   <b>specialty</b>: Computer Science and Computer Engineering ⚙️💻
 
