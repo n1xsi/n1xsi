@@ -88,12 +88,13 @@
   [![Vivado](https://custom-icon-badges.demolab.com/badge/Vivado%20(Verilog)-202020?style=for-the-badge&logo=vivado)](#)
   
   <b>CV/AI: </b>
-  [![Google Colab](https://img.shields.io/badge/Google%20Colab-202020?style=for-the-badge&logo=googlecolab&logoColor=23F9A825)](#)
-  [![Jupyter Notebook](https://img.shields.io/badge/jupyter-202020?style=for-the-badge&logo=jupyter&logoColor=f58034)](#)
   [![OpenCV](https://custom-icon-badges.demolab.com/badge/opencv-202020?style=for-the-badge&logo=opencv_color&logoColor=94de6e)](#)
+  [![scikit-learn](https://img.shields.io/badge/scikit--learn-202020?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)](#)
+  [![TensorFlow](https://img.shields.io/badge/TensorFlow-202020?style=for-the-badge&logo=TensorFlow&logoColor=ff6f00)](#)
   [![NumPy](https://img.shields.io/badge/numpy-202020?style=for-the-badge&logo=numpy&logoColor=white)](#)
   
-  [![scikit-learn](https://img.shields.io/badge/scikit--learn-202020?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)](#)
+  [![Google Colab](https://img.shields.io/badge/Google%20Colab-202020?style=for-the-badge&logo=googlecolab&logoColor=23F9A825)](#)
+  [![Jupyter Notebook](https://img.shields.io/badge/jupyter-202020?style=for-the-badge&logo=jupyter&logoColor=f58034)](#)
   [![Google Gemini](https://img.shields.io/badge/google%20AI%20studio-202020?style=for-the-badge&logo=google%20gemini&logoColor=7090df)](#)
 
 </div>
