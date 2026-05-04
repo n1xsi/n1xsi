@@ -58,9 +58,10 @@
   [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-202020?style=for-the-badge&logo=vstudioc)](#)
   [![WSL Debian](https://img.shields.io/badge/WSL%20Debian-202020?style=for-the-badge&logo=debian&logoColor=A81D33)](#)
   [![Neovim](https://img.shields.io/badge/NeoVim-202020?&style=for-the-badge&logo=neovim)](#)
-  
+
+  [![Postman](https://img.shields.io/badge/Postman-202020?style=for-the-badge&logo=postman&logoColor=FF6C37)](#)
   [![Jira](https://img.shields.io/badge/jira-202020?style=for-the-badge&logo=jira&logoColor=0a0fff)](#)
-  [![Confluence](https://img.shields.io/badge/confluence-202020?style=for-the-badge&logo=confluence&logoColor=172bf4)]()
+  [![Confluence](https://img.shields.io/badge/confluence-202020?style=for-the-badge&logo=confluence&logoColor=172bf4)](#)
 
   <hr>
   
