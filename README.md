@@ -59,6 +59,7 @@
   [![WSL Debian](https://img.shields.io/badge/WSL%20Debian-202020?style=for-the-badge&logo=debian&logoColor=A81D33)](#)
   [![Neovim](https://img.shields.io/badge/NeoVim-202020?&style=for-the-badge&logo=neovim)](#)
 
+  [![n8n](https://img.shields.io/badge/n8n-202020?style=for-the-badge&logo=n8n&logoColor=EA4B71)](#)
   [![Postman](https://img.shields.io/badge/Postman-202020?style=for-the-badge&logo=postman&logoColor=FF6C37)](#)
   [![Jira](https://img.shields.io/badge/jira-202020?style=for-the-badge&logo=jira&logoColor=0a0fff)](#)
   [![Confluence](https://img.shields.io/badge/confluence-202020?style=for-the-badge&logo=confluence&logoColor=172bf4)](#)
