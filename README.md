@@ -82,7 +82,7 @@
   [![IDA](https://custom-icon-badges.demolab.com/badge/IDA%20x64-202020?style=for-the-badge&logo=ida64)](#)
   [![Lua](https://img.shields.io/badge/lua-202020?style=for-the-badge&logo=lua&logoColor=2c2d72)](#)
   [![Cheat Engine](https://custom-icon-badges.demolab.com/badge/Cheat%20Engine-202020?style=for-the-badge&logo=chtengine)](#)
-  [![AHK](https://custom-icon-badges.demolab.com/badge/Autohotkey-202020?style=for-the-badge&logo=ahk)](#)
+  [![AHK](https://custom-icon-badges.demolab.com/badge/AHK-202020?style=for-the-badge&logo=ahk)](#)
 
   <b>studenthood: </b>
   [![PascalABC.NET](https://custom-icon-badges.demolab.com/badge/PascalABC.NET-202020?style=for-the-badge&logo=pascalabcnet)](#)
