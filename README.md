@@ -65,18 +65,29 @@
   [![Confluence](https://img.shields.io/badge/confluence-202020?style=for-the-badge&logo=confluence&logoColor=172bf4)](#)
 
   <hr>
-  
+
   ### ✍🏻 also worked with 👀
   <b>hypertext: </b>
   [![LaTex](https://img.shields.io/badge/LaTex-202020?style=for-the-badge&logo=latex&logoColor=008080)](#)
   [![Typst](https://img.shields.io/badge/typst-202020?style=for-the-badge&logo=typst)](#)
-  
+
   <b>small web: </b>
   [![HTML](https://img.shields.io/badge/html-202020?style=for-the-badge&logo=htmx)](#)
   [![CSS](https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css&logoColor=fff)](#)
   [![JavaScript](https://img.shields.io/badge/JS-202020?style=for-the-badge&logo=javascript&logoColor=f7df1e)](#)
   [![p5.js](https://img.shields.io/badge/p5.js-202020?style=for-the-badge&logo=p5.js&logoColor=ED225D)](#)
-  
+
+  <b>CV/AI: </b>
+  [![OpenCV](https://custom-icon-badges.demolab.com/badge/opencv-202020?style=for-the-badge&logo=opencv_color&logoColor=94de6e)](#)
+  [![scikit-learn](https://img.shields.io/badge/scikit--learn-202020?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)](#)
+  [![TensorFlow](https://img.shields.io/badge/TensorFlow-202020?style=for-the-badge&logo=TensorFlow&logoColor=ff6f00)](#)
+  [![NumPy](https://img.shields.io/badge/numpy-202020?style=for-the-badge&logo=numpy&logoColor=white)](#)
+
+  [![Google Colab](https://img.shields.io/badge/Google%20Colab-202020?style=for-the-badge&logo=googlecolab&logoColor=23F9A825)](#)
+  [![Jupyter Notebook](https://img.shields.io/badge/jupyter-202020?style=for-the-badge&logo=jupyter&logoColor=f58034)](#)
+  [![Google Gemini](https://img.shields.io/badge/google%20AI%20studio-202020?style=for-the-badge&logo=google%20gemini&logoColor=7090df)](#)
+  [![Label Studio](https://custom-icon-badges.demolab.com/badge/label%20studio-202020?style=for-the-badge&logo=labelstudio)](#)
+
   <b>smth cool: </b>
   [![Unity](https://img.shields.io/badge/unity-202020?style=for-the-badge&logo=unity)](#)
   [![IDA](https://custom-icon-badges.demolab.com/badge/IDA%20x64-202020?style=for-the-badge&logo=ida64)](#)
@@ -88,17 +99,6 @@
   [![PascalABC.NET](https://custom-icon-badges.demolab.com/badge/PascalABC.NET-202020?style=for-the-badge&logo=pascalabcnet)](#)
   [![MatLab](https://custom-icon-badges.demolab.com/badge/MatLab-202020?style=for-the-badge&logo=mattlab)](#)
   [![Vivado](https://custom-icon-badges.demolab.com/badge/Vivado%20(Verilog)-202020?style=for-the-badge&logo=vivado)](#)
-  
-  <b>CV/AI: </b>
-  [![OpenCV](https://custom-icon-badges.demolab.com/badge/opencv-202020?style=for-the-badge&logo=opencv_color&logoColor=94de6e)](#)
-  [![scikit-learn](https://img.shields.io/badge/scikit--learn-202020?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)](#)
-  [![TensorFlow](https://img.shields.io/badge/TensorFlow-202020?style=for-the-badge&logo=TensorFlow&logoColor=ff6f00)](#)
-  [![NumPy](https://img.shields.io/badge/numpy-202020?style=for-the-badge&logo=numpy&logoColor=white)](#)
-  
-  [![Google Colab](https://img.shields.io/badge/Google%20Colab-202020?style=for-the-badge&logo=googlecolab&logoColor=23F9A825)](#)
-  [![Jupyter Notebook](https://img.shields.io/badge/jupyter-202020?style=for-the-badge&logo=jupyter&logoColor=f58034)](#)
-  [![Google Gemini](https://img.shields.io/badge/google%20AI%20studio-202020?style=for-the-badge&logo=google%20gemini&logoColor=7090df)](#)
-  [![Label Studio](https://custom-icon-badges.demolab.com/badge/label%20studio-202020?style=for-the-badge&logo=labelstudio)](#)
 
 </div>
 
