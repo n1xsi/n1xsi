@@ -46,9 +46,11 @@
   [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-202020?style=for-the-badge&logo=sqql)](#)
   [![SQLite](https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 
+  [![FastAPI](https://img.shields.io/badge/FastAPI-202020?style=for-the-badge&logo=fastapi)](#)
   [![aiogram](https://img.shields.io/badge/aiogram-202020?style=for-the-badge&logo=telegram&logoColor=white)](#)
   [![UnitTest](https://custom-icon-badges.demolab.com/badge/unittest-202020?style=for-the-badge&logo=unittest&logoColor=white)](#)
   [![Make](https://img.shields.io/badge/Make-202020?style=for-the-badge&logo=gnu&logoColor=white)](#)
+
   [![Markdown](https://img.shields.io/badge/markdown-202020?style=for-the-badge&logo=markdown&logoColor=white)](#)
   [![Mermaid](https://custom-icon-badges.demolab.com/badge/Mermaid-202020?style=for-the-badge&logo=mermaid)](#)
 
