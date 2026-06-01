@@ -43,14 +43,15 @@
   [![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git)](#)
   [![Docker](https://img.shields.io/badge/docker-202020?style=for-the-badge&logo=docker)](#)
   [![Bash](https://img.shields.io/badge/bash-202020?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+  [![FastAPI](https://img.shields.io/badge/FastAPI-202020?style=for-the-badge&logo=fastapi)](#)
+
   [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-202020?style=for-the-badge&logo=sqql)](#)
   [![SQLite](https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-
-  [![FastAPI](https://img.shields.io/badge/FastAPI-202020?style=for-the-badge&logo=fastapi)](#)
-  [![aiogram](https://img.shields.io/badge/aiogram-202020?style=for-the-badge&logo=telegram&logoColor=white)](#)
+  [![Postgres](https://img.shields.io/badge/postgres-202020?style=for-the-badge&logo=postgresql&logoColor=23316192)](#)
   [![UnitTest](https://custom-icon-badges.demolab.com/badge/unittest-202020?style=for-the-badge&logo=unittest&logoColor=white)](#)
-  [![Make](https://img.shields.io/badge/Make-202020?style=for-the-badge&logo=gnu&logoColor=white)](#)
 
+  [![aiogram](https://img.shields.io/badge/aiogram-202020?style=for-the-badge&logo=telegram&logoColor=white)](#)
+  [![Make](https://img.shields.io/badge/Make-202020?style=for-the-badge&logo=gnu&logoColor=white)](#)
   [![Markdown](https://img.shields.io/badge/markdown-202020?style=for-the-badge&logo=markdown&logoColor=white)](#)
   [![Mermaid](https://custom-icon-badges.demolab.com/badge/Mermaid-202020?style=for-the-badge&logo=mermaid)](#)
 
