@@ -86,9 +86,8 @@
   [![TensorFlow](https://img.shields.io/badge/TensorFlow-202020?style=for-the-badge&logo=TensorFlow&logoColor=ff6f00)](#)
   [![NumPy](https://img.shields.io/badge/numpy-202020?style=for-the-badge&logo=numpy&logoColor=white)](#)
 
-  [![Google Colab](https://img.shields.io/badge/Google%20Colab-202020?style=for-the-badge&logo=googlecolab&logoColor=23F9A825)](#)
+  [![Google Colab](https://img.shields.io/badge/Colab-202020?style=for-the-badge&logo=googlecolab&logoColor=23F9A825)](#)
   [![Jupyter Notebook](https://img.shields.io/badge/jupyter-202020?style=for-the-badge&logo=jupyter&logoColor=f58034)](#)
-  [![Google Gemini](https://img.shields.io/badge/google%20AI%20studio-202020?style=for-the-badge&logo=google%20gemini&logoColor=7090df)](#)
   [![Label Studio](https://custom-icon-badges.demolab.com/badge/label%20studio-202020?style=for-the-badge&logo=labelstudio)](#)
 
   <b>smth cool: </b>
