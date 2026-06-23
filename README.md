@@ -50,8 +50,8 @@
   [![Postgres](https://img.shields.io/badge/postgres-202020?style=for-the-badge&logo=postgresql&logoColor=23316192)](#)
   [![UnitTest](https://custom-icon-badges.demolab.com/badge/unittest-202020?style=for-the-badge&logo=unittest&logoColor=white)](#)
 
-  [![aiogram](https://img.shields.io/badge/aiogram-202020?style=for-the-badge&logo=telegram&logoColor=white)](#)
-  [![Make](https://img.shields.io/badge/Make-202020?style=for-the-badge&logo=gnu&logoColor=white)](#)
+  [![LaTex](https://img.shields.io/badge/LaTex-202020?style=for-the-badge&logo=latex&logoColor=008080)](#)
+  [![Typst](https://img.shields.io/badge/typst-202020?style=for-the-badge&logo=typst)](#)
   [![Markdown](https://img.shields.io/badge/markdown-202020?style=for-the-badge&logo=markdown&logoColor=white)](#)
   [![Mermaid](https://custom-icon-badges.demolab.com/badge/Mermaid-202020?style=for-the-badge&logo=mermaid)](#)
 
@@ -72,11 +72,7 @@
   <hr>
 
   ### ✍🏻 also worked with 👀
-  <b>hypertext: </b>
-  [![LaTex](https://img.shields.io/badge/LaTex-202020?style=for-the-badge&logo=latex&logoColor=008080)](#)
-  [![Typst](https://img.shields.io/badge/typst-202020?style=for-the-badge&logo=typst)](#)
-
-  <b>small web: </b>
+  <b>some web: </b>
   [![HTML](https://img.shields.io/badge/html-202020?style=for-the-badge&logo=htmx)](#)
   [![CSS](https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css&logoColor=fff)](#)
   [![JavaScript](https://img.shields.io/badge/JS-202020?style=for-the-badge&logo=javascript&logoColor=f7df1e)](#)
