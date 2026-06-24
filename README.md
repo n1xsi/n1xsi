@@ -60,7 +60,7 @@
   ### 🛠️ tools 🛠️
   [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-202020?style=for-the-badge&logo=vstudioc)](#)
   [![WSL Debian](https://img.shields.io/badge/WSL%20Debian-202020?style=for-the-badge&logo=debian&logoColor=A81D33)](#)
-  [![Neovim](https://img.shields.io/badge/NeoVim-202020?&style=for-the-badge&logo=neovim)](#)
+  [![Claude Code](https://img.shields.io/badge/Claude%20Code-202020?style=for-the-badge&logo=claude&logoColor=D97757)](#)
 
   [![n8n](https://img.shields.io/badge/n8n-202020?style=for-the-badge&logo=n8n&logoColor=EA4B71)](#)
   [![Postman](https://img.shields.io/badge/Postman-202020?style=for-the-badge&logo=postman&logoColor=FF6C37)](#)
