@@ -28,15 +28,13 @@
   <hr>
 
   ### 👩🏻‍💻 prog skills 👩🏻‍💻
-  <b>intermediate: </b>
   [![Python](https://custom-icon-badges.demolab.com/badge/Python-202020?style=for-the-badge&logo=pythonn)](#)
+  [![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-202020?style=for-the-badge&logo=csharppp&logoColor=white)](#)
   [![C](https://img.shields.io/badge/c-202020?style=for-the-badge&logo=c&logoColor=00599c)](#)
 
-  <b>junior: </b>
-  [![C++](https://img.shields.io/badge/c++-202020?style=for-the-badge&logo=c%2B%2B&logoColor=00599c)](#)
-  [![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-202020?style=for-the-badge&logo=csharppp&logoColor=white)](#)
-  [![Assembler](https://custom-icon-badges.demolab.com/badge/GAS%20ASM%20x64-202020?style=for-the-badge&logo=assmbler)](#)
   [![Java](https://custom-icon-badges.demolab.com/badge/Java-202020?style=for-the-badge&logo=java_col)](#)
+  [![C++](https://img.shields.io/badge/c++-202020?style=for-the-badge&logo=c%2B%2B&logoColor=00599c)](#)
+  [![Assembler](https://custom-icon-badges.demolab.com/badge/GAS%20ASM%20x64-202020?style=for-the-badge&logo=assmbler)](#)
 
   <hr>
 
@@ -83,11 +81,10 @@
   [![OpenCV](https://custom-icon-badges.demolab.com/badge/opencv-202020?style=for-the-badge&logo=opencv_color&logoColor=94de6e)](#)
   [![scikit-learn](https://img.shields.io/badge/scikit--learn-202020?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)](#)
   [![TensorFlow](https://img.shields.io/badge/TensorFlow-202020?style=for-the-badge&logo=TensorFlow&logoColor=ff6f00)](#)
-  [![NumPy](https://img.shields.io/badge/numpy-202020?style=for-the-badge&logo=numpy&logoColor=white)](#)
 
+  [![NumPy](https://img.shields.io/badge/numpy-202020?style=for-the-badge&logo=numpy&logoColor=white)](#)
   [![Google Colab](https://img.shields.io/badge/Colab-202020?style=for-the-badge&logo=googlecolab&logoColor=23F9A825)](#)
   [![Jupyter Notebook](https://img.shields.io/badge/jupyter-202020?style=for-the-badge&logo=jupyter&logoColor=f58034)](#)
-  [![Label Studio](https://custom-icon-badges.demolab.com/badge/label%20studio-202020?style=for-the-badge&logo=labelstudio)](#)
 
   <b>smth cool: </b>
   [![Unity](https://img.shields.io/badge/unity-202020?style=for-the-badge&logo=unity)](#)
