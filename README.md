@@ -47,7 +47,7 @@
   [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-202020?style=for-the-badge&logo=sqql)](#)
   [![SQLite](https://img.shields.io/badge/SQLite-202020?style=for-the-badge&logo=sqlite&logoColor=white)](#)
   [![Postgres](https://img.shields.io/badge/postgres-202020?style=for-the-badge&logo=postgresql&logoColor=23316192)](#)
-  [![UnitTest](https://custom-icon-badges.demolab.com/badge/unittest-202020?style=for-the-badge&logo=unittest&logoColor=white)](#)
+  [![Pytest](https://img.shields.io/badge/pytest-202020?style=for-the-badge&logo=pytest&logoColor=2f9fe3)](#)
 
   [![LaTex](https://img.shields.io/badge/LaTex-202020?style=for-the-badge&logo=latex&logoColor=008080)](#)
   [![Typst](https://img.shields.io/badge/typst-202020?style=for-the-badge&logo=typst)](#)
