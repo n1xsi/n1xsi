@@ -15,7 +15,7 @@
   <b>english</b>: B2
   <img src="https://emojigraph.org/media/apple/flag-united-kingdom_1f1ec-1f1e7.png" width="27" align="top">
 
-  SUAI <b>student</b>
+  <b>student of</b>: SUAI
   <img src="https://src.guap.ru/logos/suai/suai-sign_w.svg" width="27" align="top">
 
   <b>specialty</b>: Computer Science and Computer Engineering ⚙️💻
