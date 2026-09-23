@@ -65,7 +65,7 @@
   [![Postman](https://img.shields.io/badge/Postman-202020?style=for-the-badge&logo=postman&logoColor=FF6C37)](#)
   [![Jenkins](https://img.shields.io/badge/jenkins-202020?style=for-the-badge&logo=jenkins&logoColor=d33833)](#)
 
-  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-202020?style=for-the-badge&logo=github-actions&logoColor=white)](#)
+  [![GitHub Actions](https://img.shields.io/badge/GH_Actions-202020?style=for-the-badge&logo=github-actions&logoColor=white)](#)
   [![Jira](https://img.shields.io/badge/jira-202020?style=for-the-badge&logo=jira&logoColor=0a0fff)](#)
   [![Confluence](https://img.shields.io/badge/confluence-202020?style=for-the-badge&logo=confluence&logoColor=172bf4)](#)
 
