@@ -32,8 +32,8 @@
   [![C++](https://img.shields.io/badge/c++-202020?style=for-the-badge&logo=c%2B%2B&logoColor=00599c)](#)
   [![C](https://img.shields.io/badge/c-202020?style=for-the-badge&logo=c&logoColor=00599c)](#)
 
+  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-202020?style=for-the-badge&logo=csharppp&logoColor=white)](#)
   [![Java](https://custom-icon-badges.demolab.com/badge/Java-202020?style=for-the-badge&logo=java_col)](#)
-  [![C#](https://custom-icon-badges.demolab.com/badge/C%20Sharp-202020?style=for-the-badge&logo=csharppp&logoColor=white)](#)
   [![Assembler](https://custom-icon-badges.demolab.com/badge/GAS%20ASM%20x64-202020?style=for-the-badge&logo=assmbler)](#)
 
   <hr>
